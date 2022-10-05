@@ -1,17 +1,19 @@
-
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Pratik Devnal</h1>
-<h3 align="center">A passionate frontend and AI developer from India</h3>
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikdevnal&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdevnal" /> </p>
-<p align="left"> <a href="https://twitter.com/pratikdevnal" target="blank"><img src="https://img.shields.io/twitter/follow/pratikdevnal?logo=twitter&style=for-the-badge" alt="pratikdevnal" /></a> </p>
+<h3 align="center">A passionate Frontend and AI developer from India</h3>
+<img align="right" alt="coding" width="350" src="./coding.gif">
 
-- 🔭 I’m currently working on **AI GYM Trainer**
+
+- 🔭 I’m currently working on **AI/ML**
 
 - 🌱 I’m currently learning **React Js, Data Science**
 
 - 👯 I’m looking to collaborate on **Frontend Web Development**
 
 - 📫 How to reach me **pratik.devnal@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikdevnal&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdevnal" /> </p>
+<p align="left"> <a href="https://twitter.com/pratikdevnal" target="blank"><img src="https://img.shields.io/twitter/follow/pratikdevnal?logo=twitter&style=for-the-badge" alt="pratikdevnal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
