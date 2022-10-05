@@ -64,9 +64,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 
-
-<br/>
-## 🔥 Streak Stats
+  
+<h3>🔥Streak Stats</h3> 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdevnal&theme=black-ice" alt="pratik"/></p>
 <br>
   
