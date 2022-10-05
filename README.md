@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Pratik Devnal</h1>
 <h3 align="center">A passionate Frontend and AI developer from India</h3>
 <img align="right" alt="coding" width="350" src="./coding.gif">
 
