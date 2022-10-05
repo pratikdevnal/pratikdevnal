@@ -69,14 +69,7 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdevnal&theme=black-ice" alt="pratik"/></p>
 <br>
-
-## &#x1f4c8; My GitHub Stats
-<p  align="center"> 
-<a href="https://github.com/pratikdevnal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikdevnal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdevnal&theme=algolia&hide=c%2B%2B&layout=compact"/>
-</a>
-</p>
+  
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=pratikdevnal&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
 
 
