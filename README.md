@@ -75,7 +75,7 @@
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratikdevnal&bg_color=000000&color=ffffff&line=cf96cb&point=ec36aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pratik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdevnal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
