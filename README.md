@@ -68,7 +68,7 @@
 <h3>🔥Streak Stats</h3>
 <p align="center">
   <a href="https://github.com/pratikdevnal/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pratik" src="https://github-readme-streak-stats.herokuapp.com?user=pratikdevnal&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pratik" src="https://github-readme-streak-stats.herokuapp.com?user=pratikdevnal&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
 
