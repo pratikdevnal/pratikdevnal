@@ -66,8 +66,7 @@
 
   
 <h3>🔥Streak Stats</h3> 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdevnal&theme=black-ice" alt="pratik"/></p>
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratikdevnal&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratikdevnal&bg_color=000000&color=ffffff&line=cf96cb&point=ec36aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
