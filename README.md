@@ -69,7 +69,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdevnal&theme=black-ice" alt="pratik"/></p>
 <br>
   
-<img width="100%" src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratikdevnal&bg_color=000000&color=ffffff&line=cf96cb&point=ec36aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratikdevnal&bg_color=000000&color=ffffff&line=cf96cb&point=ec36aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
