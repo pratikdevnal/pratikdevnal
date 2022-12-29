@@ -66,8 +66,10 @@
 
   
 <h3>🔥Streak Stats</h3>
+<p align="center">
+ ![GitHub Streak](https://streak-stats.demolab.com?user=pratikdevnal&theme=radical&border_radius=6&date_format=j%20M%5B%20Y%5D)
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pratikdevnal&theme=radical&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratikdevnal&theme=merko)
 
