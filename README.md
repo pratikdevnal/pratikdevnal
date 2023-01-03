@@ -67,7 +67,7 @@
   
 <h3>🔥Streak Stats</h3>
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=pratikdevnal&count_private=true&theme=algolia&border_radius=20)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratikdevnal&theme=merko)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikdevnal&show_icons=true&locale=en" alt="pratikdevnal" /></p>
