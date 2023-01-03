@@ -67,8 +67,7 @@
   
 <h3>🔥Streak Stats</h3>
 <p align="center">
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratikdevnal&theme=radical&border_radius=6&date_format=j%20M%5B%20Y%5D"/></a> -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=pratikdevnal&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratikdevnal&theme=dark"/></a>
 </p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratikdevnal&theme=merko)
