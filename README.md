@@ -66,9 +66,9 @@
 
   
 <h3>🔥Streak Stats</h3>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdevnal">
-</p>
+<!-- <p align="center"> -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratikdevnal)](https://github.com/pratikdevnal/github-readme-streak-stats)
+<!-- </p> -->
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratikdevnal&theme=merko)
 
