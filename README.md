@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h3 align="center">A passionate Frontend and AI developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="coding" width="350" src="./coding.gif">
 
 
