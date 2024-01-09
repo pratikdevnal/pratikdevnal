@@ -11,8 +11,8 @@
 
 - 📫 How to reach me? => **pratik.devnal@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikdevnal&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdevnal" /> </p>
-<img align="right" alt="coding" width="350" src="./coding.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikdevnal&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdevnal" /> <img align="right" alt="coding" width="350" src="./coding.gif"> </p>
+
 <p align="left"> <a href="https://twitter.com/pratikdevnal" target="blank"><img src="https://img.shields.io/twitter/follow/pratikdevnal?logo=twitter&style=for-the-badge" alt="pratikdevnal" /></a> </p>
 
 
