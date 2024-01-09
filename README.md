@@ -69,7 +69,7 @@
   
 <p align="center"><a><img src="https://streak-stats.demolab.com?user=pratikdevnal" /></a></p>
   
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratikdevnal&theme=merko)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikdevnal&theme=merko)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikdevnal&show_icons=true&locale=en" alt="pratikdevnal" /></p>
 
