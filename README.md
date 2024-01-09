@@ -67,17 +67,13 @@
  -->
   
 <h3>🔥Streak Stats</h3>
-  
+<p align="center">  <img align="center" alt="coding" width="350" src="./coding.gif"> </p>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratikdevnal" alt="GitHub Streak" /></a></p> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikdevnal&show_icons=true&locale=en" alt="pratikdevnal" /></p>
-
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pratik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdevnal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-</p>
+</p> 
 
-<p align="center">  <img align="center" alt="coding" width="350" src="./coding.gif"> </p> 
-
- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratikdevnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratikdevnal" height="30" width="40" /></a>
