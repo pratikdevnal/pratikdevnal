@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="coding" width="350" src="./coding.gif">
+<img align="right" alt="coding" width="350" src="./banner_animation.gif">
 
 
 - 🔭 I’m currently working on **AI/ML**
