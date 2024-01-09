@@ -1,3 +1,4 @@
+<img align="left" alt="coding" width="350" src="./coding.gif"> 
 ![Header](./github-header-image.png)
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="coding" width="350" src="./banner_animation.gif">
@@ -68,9 +69,7 @@
   
 <h3>🔥Streak Stats</h3>
   
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratikdevnal" alt="GitHub Streak" /></a></p>
-<p  <img align="center" alt="coding" width="350" src="./coding.gif"> </p> 
-  
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratikdevnal" alt="GitHub Streak" /></a></p> 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikdevnal&theme=merko)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikdevnal&show_icons=true&locale=en" alt="pratikdevnal" /></p>
