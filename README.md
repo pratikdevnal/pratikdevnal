@@ -11,7 +11,7 @@
 
 - 📫 How to reach me? => **pratik.devnal@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikdevnal&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdevnal" /> <img align="right" alt="coding" width="350" src="./coding.gif"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikdevnal&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdevnal" /></p>
 
 <p align="left"> <a href="https://twitter.com/pratikdevnal" target="blank"><img src="https://img.shields.io/twitter/follow/pratikdevnal?logo=twitter&style=for-the-badge" alt="pratikdevnal" /></a> </p>
 
@@ -69,6 +69,7 @@
 <h3>🔥Streak Stats</h3>
   
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratikdevnal" alt="GitHub Streak" /></a></p>
+<p  <img align="center" alt="coding" width="350" src="./coding.gif"> </p> 
   
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikdevnal&theme=merko)
 
