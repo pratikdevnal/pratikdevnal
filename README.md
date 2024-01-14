@@ -67,6 +67,7 @@
  -->
   
 <h3>🔥Streak Stats</h3>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pratikdevnal)](https://git.io/streak-stats)
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratikdevnal" alt="GitHub Streak" /></a></p> 
 <p align="center">  <img align="center" alt="coding" width="350" src="./coding.gif"> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikdevnal&show_icons=true&locale=en" alt="pratikdevnal" /></p>
