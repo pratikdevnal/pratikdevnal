@@ -84,7 +84,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratikdevnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratikdevnal" height="30" width="40" /></a>
-<a href="https://instagram.com/pratik-devnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik-devnal" height="30" width="40" /></a>
+<a href="https://instagram.com/pratikdevnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik-devnal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pratik_devnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratik_devnal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratikdevnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratikdevnal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pratikdevnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratikdevnal" height="30" width="40" /></a>
